@@ -1,0 +1,6 @@
+D:\Desenvolvimento\Readify\ReadifyClientServices\ServiceExecutor\bin\Debug\ServiceExecutor.exe.config
+D:\Desenvolvimento\Readify\ReadifyClientServices\ServiceExecutor\bin\Debug\ServiceExecutor.exe
+D:\Desenvolvimento\Readify\ReadifyClientServices\ServiceExecutor\bin\Debug\ServiceExecutor.pdb
+D:\Desenvolvimento\Readify\ReadifyClientServices\ServiceExecutor\obj\Debug\ServiceExecutor.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\Readify\ReadifyClientServices\ServiceExecutor\obj\Debug\ServiceExecutor.exe
+D:\Desenvolvimento\Readify\ReadifyClientServices\ServiceExecutor\obj\Debug\ServiceExecutor.pdb

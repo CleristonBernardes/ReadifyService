@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ClientBusiness.Tools" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ClientBusiness.Tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="Enums.TriangleType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Error" />
+      <xs:enumeration value="Equilateral" />
+      <xs:enumeration value="Isosceles" />
+      <xs:enumeration value="Scalene" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="Enums.TriangleType" nillable="true" type="tns:Enums.TriangleType" />
+</xs:schema>

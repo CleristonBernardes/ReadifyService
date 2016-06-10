@@ -1,0 +1,8 @@
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\bin\ClientServices.dll.config
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\bin\ClientServices.dll
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\bin\ClientServices.pdb
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\obj\Debug\ClientServices.dll
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\obj\Debug\ClientServices.pdb
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\obj\Debug\ClientServices.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\bin\ClientBusiness.dll
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientServices\bin\ClientBusiness.pdb

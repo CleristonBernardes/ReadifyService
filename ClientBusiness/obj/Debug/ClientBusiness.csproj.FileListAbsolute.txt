@@ -1,0 +1,5 @@
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientBusiness\bin\Debug\ClientBusiness.dll
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientBusiness\bin\Debug\ClientBusiness.pdb
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientBusiness\obj\Debug\ClientBusiness.dll
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientBusiness\obj\Debug\ClientBusiness.pdb
+D:\Desenvolvimento\Readify\ReadifyClientServices\ClientBusiness\obj\Debug\ClientBusiness.csprojResolveAssemblyReference.cache
