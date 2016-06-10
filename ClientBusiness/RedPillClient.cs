@@ -21,7 +21,7 @@ namespace ClientServices
         {
             try
             {
-                return new Guid("789bc0bb-36a7-4ccd-ae5f-84be9b6d47cb");
+                return new Guid("");
             }
             catch(Exception ex)
             {
